@@ -1,0 +1,15 @@
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\bin\Debug\net7.0\DesafioBruno.exe
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\bin\Debug\net7.0\DesafioBruno.deps.json
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\bin\Debug\net7.0\DesafioBruno.runtimeconfig.json
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\bin\Debug\net7.0\DesafioBruno.dll
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\bin\Debug\net7.0\DesafioBruno.pdb
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\obj\Debug\net7.0\DesafioBruno.csproj.AssemblyReference.cache
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\obj\Debug\net7.0\DesafioBruno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\obj\Debug\net7.0\DesafioBruno.AssemblyInfoInputs.cache
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\obj\Debug\net7.0\DesafioBruno.AssemblyInfo.cs
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\obj\Debug\net7.0\DesafioBruno.csproj.CoreCompileInputs.cache
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\obj\Debug\net7.0\DesafioBruno.dll
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\obj\Debug\net7.0\refint\DesafioBruno.dll
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\obj\Debug\net7.0\DesafioBruno.pdb
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\obj\Debug\net7.0\DesafioBruno.genruntimeconfig.cache
+C:\Users\proco\source\repos\DesafioBruno\DesafioBruno\obj\Debug\net7.0\ref\DesafioBruno.dll
